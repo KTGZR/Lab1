@@ -1,0 +1,11 @@
+.right
+{float:right;
+    margin: 0 0 5px 5px;
+}
+.scrug
+{   border-radius: 10px;
+    border: 5px #23cc5c solid;
+    box-shadow: 0 0 10px #444;
+}
+a:link,a:visited{color: red;background-color: transparent;text-decoration: none;padding: 15px 25px;text-align: center; display: inline-block;}
+a:hover,a:active{color:yellow; background-color: transparent;text-decoration: none;}
